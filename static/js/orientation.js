@@ -12,6 +12,3 @@ function onMatchMediaChange(mql){
 }
 onMatchMediaChange(mql);
 mql.addListener(onMatchMediaChange);
-/*
-GPLv3.0 @ https://github.com/holgerhuo/minimalist-search
-*/
