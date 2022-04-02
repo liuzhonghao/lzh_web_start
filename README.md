@@ -1,8 +1,8 @@
-HTML+CSS+JS的极简起始页/静态页/导航页
-参考以下项目并做修改优化
-github：https://github.com/5iux/sou
-github：https://github.com/yeetime/sou2
-github：https://github.com/HolgerHuo/minimalist-search
+# HTML+CSS+JS的极简起始页/静态页/导航页
+ - 参考以下项目并做修改优化
+ - github：https://github.com/5iux/sou
+ - github：https://github.com/yeetime/sou2
+ - github：https://github.com/HolgerHuo/minimalist-search
 
 
 ## 与原版的改动（相对于Yeetime版本）
