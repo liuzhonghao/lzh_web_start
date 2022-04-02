@@ -1,10 +1,9 @@
-# Minimalist Search
+HTML+CSS+JS的极简起始页/静态页/导航页
+参考以下项目并做修改优化
+github：https://github.com/5iux/sou
+github：https://github.com/yeetime/sou2
+github：https://github.com/HolgerHuo/minimalist-search
 
-一个纯HTML+CSS+JS的极简起始页
-
-> Forked from [sou2](https://github.com/yeetime/sou2)
->
-> ©️ 5iux | Yeetime | Holger
 
 ## 与原版的改动（相对于Yeetime版本）
 
@@ -27,15 +26,24 @@
 > 此图中配色以过时
 ## 计划
 
+- [ ] 显示预搜索结果
 - [ ] 搜索记录
 - [ ] 自定义背景
-- [ ] ······
+- [ ] 必应背景
 
-## 下载地址
 
-[Releases](https://github.com/HolgerHuo/minimalist-search/releases)
-
+## 引用外链
+ - 和风天气API https://www.qweather.com
+ - 一言API https://v1.hitokoto.cn
+ - 今日诗词API https://www.jinrishici.com
+ - 百度统计 https://hm.baidu.com
+ - 字体 https://fonts.googleapis.com
 ------
+
+## 食用方法：
+ - 下载源码直接部署网站即可
+ - 注意：请注释掉index.html中百度统计代码或更换
+ - 注意：请更改底部ICP备案信息
 
 **本项目基于GPL-3.0协议**
 
