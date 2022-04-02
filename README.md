@@ -1,4 +1,5 @@
 # HTML+CSS+JS的极简起始页/静态页/导航页
+ - 同时适配PC端，移动端
  - 参考以下项目并做修改优化
  - github：https://github.com/5iux/sou
  - github：https://github.com/yeetime/sou2
@@ -37,6 +38,7 @@
  - 今日诗词API https://www.jinrishici.com
  - 百度统计 https://hm.baidu.com
  - 字体 https://fonts.googleapis.com
+ - 图标引用阿里图标 https://www.iconfont.cn
 ------
 
 ## 食用方法：
