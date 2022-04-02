@@ -22,8 +22,6 @@
 
 - 增加深色模式（跟随系统）
 
-  ![此GIF上的配色已过时](https://github.com/HolgerHuo/minimalist-search/raw/master/static/images/darkmode.gif)
-> 此图中配色以过时
 ## 计划
 
 - [ ] 显示预搜索结果
@@ -44,6 +42,9 @@
  - 下载源码直接部署网站即可
  - 注意：请注释掉index.html中百度统计代码或更换
  - 注意：请更改底部ICP备案信息
+
+## 项目预览
+<img width="1423" alt="image" src="https://user-images.githubusercontent.com/45680714/161374630-92368305-11a6-472f-ba21-d7104a23c038.png">
 
 **本项目基于GPL-3.0协议**
 
