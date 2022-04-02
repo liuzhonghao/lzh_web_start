@@ -6,7 +6,7 @@
  - github：https://github.com/HolgerHuo/minimalist-search
 
 
-## 与原版的改动（相对于Yeetime版本）
+## 与原版的改动
 
 - 精简代码
 - CSS: 去除无用CSS，精简合并，优化侧边栏动画
