@@ -1,6 +1,6 @@
 /*
-github：https://github.com/5iux/sou
-github：https://github.com/yeetime/sou2
+https://github.com/5iux/sou
+https://github.com/yeetime/sou2
 */
 
 $(document).ready(function() {
