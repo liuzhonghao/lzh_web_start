@@ -483,28 +483,28 @@
                     <p id="hitokoto">😀 Loading...</p>——「<span id="from">😀 Loading...</span>」
                 </div>
             </div>
-        <script async>  
-            fetch('https://v1.hitokoto.cn')  
-            .then(function (res){  
-            return res.json();  
-            })  
-            .then(function (data) {  
-            var hitokoto = document.getElementById('hitokoto');  
-            hitokoto.innerText = data.hitokoto;   
-            var from = document.getElementById('from');  
-            from.innerText = data.from;  
-            })  
-            .catch(function (err) {  
-            console.error(err);  
-            })  
-        </script>  
+        <script async>
+            fetch('https://v1.hitokoto.cn')
+            .then(function (res){
+            return res.json();
+            })
+            .then(function (data) {
+            var hitokoto = document.getElementById('hitokoto');
+            hitokoto.innerText = data.hitokoto;
+            var from = document.getElementById('from');
+            from.innerText = data.from;
+            })
+            .catch(function (err) {
+            console.error(err);
+            })
+        </script>
         <!--今日诗词-->
         <script>
               jinrishici.load(function(result) {
                 var telecopy =  result.data.content;
                 var cursor = "|";
                 var teletype = document.getElementById("search_placeholder");
-                teletype.placeholder = cursor;  
+                teletype.placeholder = cursor;
                 var counter = 0;
                 var timer = setInterval(function(){
                     teletype.placeholder = telecopy.substr(0, counter) + cursor;
